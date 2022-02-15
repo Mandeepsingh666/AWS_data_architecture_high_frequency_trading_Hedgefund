@@ -18,5 +18,6 @@ down the noise.)
 
 ### OverView 
 In the project, I tried to show my knowledge of AWS's various services. created End-To-End data pipeline where I ingest (Extract) data using AWS lambda from Stock market APIs. 
-Then Store raw data into AWS S3 Bucket then I use AWS EMR to transform data to load into AWS Redshift for future Analytical needs. In the end, I use AWS Quicksight for data visualizations. 
+Then Store raw data into AWS S3 Bucket then I use AWS EMR to transform data to load into AWS Redshift for future Analytical needs. In the end, I use AWS Quicksight for data visualizations. data replication was done to create data fault tolrance and data avalibility in different region.
 
+<img width="640" alt="Screen Shot 2022-02-14 at 7 28 17 PM" src="https://user-images.githubusercontent.com/44817812/153971838-9ccfd281-0388-42cb-98aa-0b8c20b02fda.png">
