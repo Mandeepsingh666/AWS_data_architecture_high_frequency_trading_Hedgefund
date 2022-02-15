@@ -20,4 +20,3 @@ down the noise.)
 In the project, I tried to show my knowledge of AWS's various services. created End-To-End data pipeline where I ingest (Extract) data using AWS lambda from Stock market APIs. 
 Then Store raw data into AWS S3 Bucket then I use AWS EMR to transform data to load into AWS Redshift for future Analytical needs. In the end, I use AWS Quicksight for data visualizations. 
 
-https://github.com/Mandeepsingh666/AWS_data_architecture_high_frequency_trading_Hedgefund/blob/main/Screen%20Shot%202022-02-14%20at%207.28.17%20PM.png
